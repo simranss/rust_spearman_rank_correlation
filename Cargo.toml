@@ -1,0 +1,6 @@
+[package]
+name = "spearman_rank_correlation_coefficient"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
